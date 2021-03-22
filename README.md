@@ -1,5 +1,5 @@
 Hello there!
-I’m currently learning more and more abot programing and i can make simple websies with html. and css. code
+I’m currently learning more and more about programing and i can make simple websites with html. and css. code
 
 <!--
 **hampu07/hampu07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
