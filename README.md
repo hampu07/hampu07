@@ -2,6 +2,12 @@
 
 I’m currently learning more and more about programing and i can make simple websites with html. and css. code
 
+I’m currently working on a website about math for my mom that she can use in school (she is a teacher)
+
+How to reach me: Discord hampu #6232, Instagram:hampulonn07, @adhd_Hampu
+
+Fun fact: I would recomend Noelnim here on github for programing diferent bots and websites.
+
 <!--
 **hampu07/hampu07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
