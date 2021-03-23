@@ -8,7 +8,7 @@ How to reach me: Discord: hampu #6232, Instagram:<a href="https://www.instagram.
 
 Fun fact: I would recomend <a href="https://github.com/NoelNim">Noelnim</a> here on github for programing diferent bots and websites.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hampu07show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hampu07&show_icons=true)
 
 
 <!--
