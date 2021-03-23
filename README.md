@@ -8,6 +8,7 @@ How to reach me: Discord hampu #6232, Instagram:https://www.instagram.com/hampul
 
 Fun fact: I would recomend Noelnim here on github for programing diferent bots and websites.
 
+<a href="https://github.com/NoelNim">Here is Noelnims profile </a>
 <!--
 **hampu07/hampu07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
