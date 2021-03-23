@@ -4,7 +4,7 @@ I’m currently learning more and more about programing and i can make simple we
 
 I’m currently working on a website about math for my mom that she can use in school (she is a teacher)
 
-How to reach me: Discord hampu #6232, Instagram:https://www.instagram.com/hampulonn07/ , twitter: https://twitter.com/Adhd_hampu
+How to reach me: Discord hampu #6232, Instagram:<a href="https://www.instagram.com/hampulonn07/">hampulonn07</a> , twitter:<a href="https://twitter.com/Adhd_hampu">Adhd_hampu</a>
 
 Fun fact: I would recomend Noelnim here on github for programing diferent bots and websites.
 
